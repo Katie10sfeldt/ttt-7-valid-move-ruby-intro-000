@@ -2,9 +2,9 @@
 
 def valid_move?
   if position_taken?
-    execute something
+    # execute something
   else
-    execute another thing
+    # execute another thing
   end
 end
 
